@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamthakur9777&label=Profile%20views&color=0e75b6&style=flat" alt="shivamthakur9777" /> </p>
 
-- 🌱 I’m currently learning Digital Forensic
+- 🌱 I’m currently learning **Digital Forensic**
 
 - 🤝 I’m looking for help with **Crowd Manegment System for kumbh 2024**
 
-- 💬 Ask me about **Java , Python , Cyber Sequrity**
+- 💬 Ask me about  **Phising, Cyber Froud, Networking**
 
 - 📫 How to reach me **annusolanki9777@gmail.com**
 
