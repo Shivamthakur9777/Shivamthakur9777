@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Digital Forensic**
 
-- 🤝 I’m looking for help with **Crowd Manegment System for kumbh 2024**
+- 🤝 I’m looking for help with **Network Analyser**
 
 - 💬 Ask me about  **Phising, Cyber Froud, Networking**
 
