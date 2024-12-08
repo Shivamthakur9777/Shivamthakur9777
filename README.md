@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamthakur9777&label=Profile%20views&color=0e75b6&style=flat" alt="shivamthakur9777" /> </p>
 
-- 🌱 I’m currently learning **SIEM**
+- 🌱 I’m currently learning **SPLUNK**
 
-- 🤝 I’m looking for help with **Network Analyser**
-
-- 💬 Ask me about  **Phising, Cyber Froud, Networking**
+- 💬 Ask me about  **Phising, Cyber Froud, Networking, SIEM**
 
 - 📫 How to reach me **annusolanki9777@gmail.com**
 
